@@ -1,3 +1,3 @@
-const monthInx = new Date()
+const monthInx = new Date();
 
-console.log(monthInx)
+console.log(monthInx);
